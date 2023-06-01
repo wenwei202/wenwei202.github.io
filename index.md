@@ -11,11 +11,10 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 
 [GitHub](https://github.com/wenwei202/), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
 
-- - - - - -
 
 # **[Publications](#Publications)**
 
-<div id="folio">- Tunhou Zhang, Dehua Cheng, Yuchen He, Zhengxing Chen, Xiaoliang Dai, Liang Xiong, Feng Yan, Hai Li, Yiran Chen, **Wei Wen** †, “NASRec: Weight Sharing Neural Architecture Search for Recommender Systems”, *International World Wide Web Conference* (**WWW**) 2023. Acceptance Rate: 365/1900=19.2%. \[[paper](https://arxiv.org/abs/2207.07187)\] 
+- Tunhou Zhang, Dehua Cheng, Yuchen He, Zhengxing Chen, Xiaoliang Dai, Liang Xiong, Feng Yan, Hai Li, Yiran Chen, **Wei Wen** †, “NASRec: Weight Sharing Neural Architecture Search for Recommender Systems”, *International World Wide Web Conference* (**WWW**) 2023. Acceptance Rate: 365/1900=19.2%. \[[paper](https://arxiv.org/abs/2207.07187)\] 
     - †Corresponding author. Intern Manager
 - **Wei Wen**, Yandan Wang, Feng Yan, Cong Xu, Yiran Chen, Hai Li, “SmoothOut: Smoothing Out Sharp Minima to Improve Generalization in Deep Learning”, **preprint**<span style="color: #ff0000;"><span style="color: #000000;">. </span></span>\[[paper](https://arxiv.org/abs/1805.07898)\]\[[code](https://github.com/wenwei202/smoothout)\]
 - **Wei Wen**, Hanxiao Liu, Hai Li, Yiran Chen, Gabriel Bender, Pieter-Jan Kindermans, “Neural Predictor for Neural Architecture Search”, *European Conference on Computer Vision* (**ECCV**) 2020. \[[Video](https://www.youtube.com/watch?v=Pxy3mQ0Hz8M)\]\[[slides](http://www.pittnuts.com/wp-content/uploads/2020/07/long-talk-10-min.pdf)\]\[[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740647.pdf)\]\[[supplementary](http://www.pittnuts.com/wp-content/uploads/2020/08/6926-supp.pdf)\]
@@ -40,11 +39,10 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 - **Wei Wen**, Chi-Ruo Wu, Xiaofang Hu, Beiye Liu, Tsung-Yi Ho, Xin Li, Yiran Chen, “An EDA Framework for Large Scale Hybrid Neuromorphic Computing Systems”, *52nd ACM/EDAC/IEEE Design Automation Conference* (**DAC**), 2015. Acceptance Rate: 162/789=20.5%. (<span style="color: #000000;">**Best Paper Nomination**</span>*, [7/789=0.89%](https://dac.com/content/52nd-dac-best-paper-presentation-nominations)*). \[[paper](http://www.pittnuts.com/wp-content/uploads/2018/10/DAC_2015_PID3646001.pdf)\]
 - Jongsoo Park, Sheng R. Li, **Wei Wen**, Hai Li, Yiran Chen, Pradeep Dubey, “Holistic SparseCNN: Forging the Trident of Accuracy, Speed, and Size”, arXiv 1608.01409, 2016. (in [Intel Developer Forum 2016](https://software.intel.com/en-us/articles/scaling-to-meet-the-growing-needs-of-ai), pages 41-43). \[[paper](http://arxiv.org/abs/1608.01409)\]\[[code](https://github.com/IntelLabs/SkimCaffe)\]
 
-</div>- - - - - -
 
 # **Industrial Experience**
 
-<div id="folio">More in [LinkedIn](https://www.linkedin.com/in/weiwenml/).
+More in [LinkedIn](https://www.linkedin.com/in/weiwenml/).
 
 - **Google Brain**, Research Intern, Mountain View, 05/2019-08/2019 
     - AutoML with [Pieter-Jan Kindermans](https://scholar.google.be/citations?user=FpI8dFwAAAAJ&hl=en), [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=en), [Hanxiao Liu](https://quark0.github.io/) and [Quoc V. Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ&hl=en).
@@ -64,11 +62,10 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 - **Microsoft Research Asia**, Research Intern, Mobile Computer Vision, Beijing, 04/2013-06/2013
 - **Tencent Inc.**, Software Engineer Intern, Advertising Platform and Products Division, Beijing, 07/2012-09/2012
 
-</div>- - - - - -
 
 # **Talks and Presentations**
 
-<div id="folio">- Rice University, Guest Lecture, [ELEC 515 Embedded Machine Learning](http://yl150.web.rice.edu/course2019fall_schedule.html), 10/28/2019.
+- Rice University, Guest Lecture, [ELEC 515 Embedded Machine Learning](http://yl150.web.rice.edu/course2019fall_schedule.html), 10/28/2019.
 - UC Berkeley, Scientific Computing and Matrix Computations Seminar, “[On Matrix Sparsification and Quantization for Efficient and Scalable Deep Learning](http://events.berkeley.edu/index.php/calendar/sn/eecs.html?event_ID=120736)“, 10/10/2018
 - Cornell University, AI Seminar, “[Efficient and Scalable Deep Learning](https://www.cs.cornell.edu/content/ai-seminar-efficient-and-scalable-deep-learning)“, 10/05/2018
 - NIPS 2017 oral presentation, [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning](https://www.youtube.com/watch?v=WWWQXTb_69c&feature=youtu.be&t=20s), 12/6/2017
@@ -81,27 +78,24 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 - “Variation-Aware Predictive Performance Model for Distributed Deep Learning”, Summer Intern Fair Poster, HP Labs, 08/02/2016
 - “An Overview of Deep Learning Accelerator”, Seminar, HP Labs, 07/18/2016
 
-</div>- - - - - -
 
 # **Activities**
 
-<div id="folio">- TPC, DAC 2022
+- TPC, DAC 2022
 - Serving as a reviewer of NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, TPAMI, IJCV, TNNLS, TCAD, Neurocomputing, TCBB, ICME, TCSVT, etc
 - Activity volunteer, Machine Learning for Girls, FEMMES (Female Excelling More in Math, Engineering, and Science) Capstone at Duke University, 02/2018
 - Conference volunteer, ESWEEK 2016, OCTOBER 2-7, PITTSBURGH, PA, USA, 10/2016
 
-</div>- - - - - -
 
 # **Teaching**
 
-<div id="folio">- TA: CEE 690/ECE 590: Introduction to Deep Learning, Duke University, Fall 2018
+- TA: CEE 690/ECE 590: Introduction to Deep Learning, Duke University, Fall 2018
 - TA: STA561/COMPSCI571/ECE682: [Probabilistic Machine Learning](http://www2.stat.duke.edu/~sayan/561/2019/), Duke University, Spring 2019
 
-</div>- - - - - -
 
 # **Education**
 
-<div id="folio">- **Ph.D.** in Electrical and Computer Engineering, Duke University, 08/2014-12/2019 
+- **Ph.D.** in Electrical and Computer Engineering, Duke University, 08/2014-12/2019 
     - Advisors: Dr. Hai (Helen) Li and Dr. Yiran Chen
     - First 3 years in University of Pittsburgh, then moved to Duke with my advisors.
 
@@ -110,7 +104,5 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 
 # **Media**
 
-<div id="folio">- Duke Electrical and Computer Engineering Ph.D. program cover page, “Q&amp;A: Wei Wen. Making deep learning models faster &amp; more efficient,” accessed on February 14, 2020 at <https://ece.duke.edu/phd/students/wen>.
+- Duke Electrical and Computer Engineering Ph.D. program cover page, “Q&amp;A: Wei Wen. Making deep learning models faster &amp; more efficient,” accessed on February 14, 2020 at <https://ece.duke.edu/phd/students/wen>.
 - People of ACM – Yiran Chen, “One of your most cited recent papers is “[*Learning Structured Sparsity in Deep Neural Networks*](https://proceedings.neurips.cc/paper/2016/file/41bfd20a38bb1b0bec75acf0845530a7-Paper.pdf),” which addresses the importance of enhancing the efficiency of deep neural networks”, accessed on September 24, 2022 at <https://www.acm.org/articles/people-of-acm/2022/yiran-chen>.
-
-</div></div>
