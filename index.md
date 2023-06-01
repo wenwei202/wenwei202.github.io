@@ -1,11 +1,3 @@
----
-id: 376
-title: 'About Me'
-date: '2016-08-13T03:45:43+00:00'
-author: weiwen.web
-layout: page
-guid: 'http://www.pittnuts.com/?page_id=376'
----
 
 I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.wiktionary.org/wiki/%E4%BC%9F)), a Research Scientist at Meta AI. Our team applies AI to both research problems in academia and to real-world problems at Facebook scale. I obtained my Ph.D. degree from Duke University in 2019. My research is Deep Learning with its applications to computer vision, recommender systems, natural language processing, and others. More specific, I work on *Automated Machine Learning* (*AutoML*), efficient deep neural networks*, and *distributed deep learning*. I spent some time at [Google Brain](https://ai.google/research/teams/brain), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
 
