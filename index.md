@@ -58,6 +58,8 @@ More in [LinkedIn](https://www.linkedin.com/in/weiwenml/).
 
 # **Talks and Presentations**
 
+- Rutgers University, [Rutgers EFficient AI (REFAI) Seminar](https://sites.google.com/site/boyuaneecs/efficient-ai-seminar-talk), [Efficient Deep Learning - on Automated Design, Distributed Training and Edge Inference](https://www.youtube.com/watch?v=0kSo2gJ2wpc), 06/29/2021
+- Microsoft Research, Speaker, [Efficient and Scalable Deep Learning](https://www.microsoft.com/en-us/research/video/efficient-and-scalable-deep-learning/), 10/10/2019
 - Rice University, Guest Lecture, [ELEC 515 Embedded Machine Learning](http://yl150.web.rice.edu/course2019fall_schedule.html), 10/28/2019.
 - UC Berkeley, Scientific Computing and Matrix Computations Seminar, “[On Matrix Sparsification and Quantization for Efficient and Scalable Deep Learning](http://events.berkeley.edu/index.php/calendar/sn/eecs.html?event_ID=120736)“, 10/10/2018
 - Cornell University, AI Seminar, “[Efficient and Scalable Deep Learning](https://www.cs.cornell.edu/content/ai-seminar-efficient-and-scalable-deep-learning)“, 10/05/2018
