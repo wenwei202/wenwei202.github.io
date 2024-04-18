@@ -61,6 +61,7 @@ More in [LinkedIn](https://www.linkedin.com/in/weiwenml/).
 
 # **Talks and Presentations**
 
+- University of Illinois Urbana-Champaign, Automated Design of Recommender Systems, 04/2024
 - Rutgers University, [Rutgers EFficient AI (REFAI) Seminar](https://sites.google.com/site/boyuaneecs/efficient-ai-seminar-talk), [Efficient Deep Learning - on Automated Design, Distributed Training and Edge Inference](https://www.youtube.com/watch?v=0kSo2gJ2wpc), 06/29/2021
 - Microsoft Research, Speaker, [Efficient and Scalable Deep Learning](https://www.microsoft.com/en-us/research/video/efficient-and-scalable-deep-learning/), 10/10/2019
 - Rice University, Guest Lecture, [ELEC 515 Embedded Machine Learning](http://yl150.web.rice.edu/course2019fall_schedule.html), 10/28/2019.
