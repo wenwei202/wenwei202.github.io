@@ -6,6 +6,7 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 
 
 # **[Publications](#Publications)**
+- Hua Zheng, Kuang-Hung Liu, Igor Fedorov, Xin Zhang, Wen-Yen Chen, **Wei Wen**, "SiGeo: Sub-One-Shot NAS via Geometry of Loss Landscape", *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**) 2024. Acceptance Rate: 20%. \[[paper](https://arxiv.org/pdf/2311.13169)\]
 - **Wei Wen***, Kuang-Hung Liu*, Igor Fedorov, Xin Zhang, Hang Yin, Weiwei Chu, Kaveh Hassani, Mengying Sun, Jiang Liu, Xu Wang, Lin Jiang, Yuxin Chen, Buyun Zhang, Xi Liu, Dehua Cheng, Zhengxing Chen, Guang Zhao, Fangqiu Han, Jiyan Yang, Yuchen Hao, Liang Xiong, Wen-Yen Chen, “Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale”, *The Web Conference* (**WWW**) 2024. Acceptance Rate: 21.3%. \[[paper](https://arxiv.org/abs/2311.08430)\] 
     - \* equal contributors
 - Hang Yin*, Kuang-Hung Liu*, Mengying Sun, Yuxin Chen, Buyun Zhang, Jiang Liu, Vivek Sehgal, Rudresh Rajnikant Panchal, Eugen Hotaj, Xi Liu, Daifeng Guo, Jamey Zhang, Zhou Wang, Shali Jiang, Huayu Li, Zhengxing Chen, Wen-Yen Chen, Jiyan Yang, **Wei Wen** †, “AutoML for Large Capacity Modeling of Meta's Ranking Systems”, *The Web Conference* (**WWW**) 2024. Acceptance Rate: 21.3%. \[[paper](https://arxiv.org/abs/2311.07870)\] 
