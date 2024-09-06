@@ -1,8 +1,8 @@
 ![Me hiking](wp-content/uploads/IMG_0890.jpg)
 
-I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.wiktionary.org/wiki/%E4%BC%9F)), a Research Scientist and AI Specialist at Meta. Our team applies AI to both research problems in academia and real-world problems at Facebook scale. At Meta, I have been working on Transformer, automated generation of AI models, and large AI models. I have been working on AI applications of ranking systems, language and vision. I obtained my Ph.D. degree from Duke University in 2019. Before Meta, I work on Automated Machine Learning (AutoML), efficient deep neural networks, and distributed deep learning. I spent some time at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
+I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.wiktionary.org/wiki/%E4%BC%9F)), a Research Scientist and AI Specialist at Meta. I have been working on scalable and efficient AI models, Transformer and its variants, automated generation of AI models, and others with applications of large language models (Llama), content recommendation & personalization and computer vision. I obtained my Ph.D. degree from Duke University in 2019. Before Meta, I work on Automated Machine Learning (AutoML), efficient deep neural networks, and distributed deep learning. I spent some time at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
 
-[CV](wp-content/uploads/2022/02/Wei_Wen_CV_no_phone.pdf), [GitHub](https://github.com/wenwei202/), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
+[GitHub](https://github.com/wenwei202/), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
 
 
 # **[Publications](#Publications)**
@@ -41,23 +41,13 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 
 More in [LinkedIn](https://www.linkedin.com/in/weiwenml/).
 
-- **Google Brain**, Research Intern, Mountain View, 05/2019-08/2019 
-    - AutoML with [Pieter-Jan Kindermans](https://scholar.google.be/citations?user=FpI8dFwAAAAJ&hl=en), [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=en), [Hanxiao Liu](https://quark0.github.io/) and [Quoc V. Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ&hl=en).
-    - Simplifying Neural Architecture Search by accuracy predictor built on graph neural networks \[[paper](https://arxiv.org/abs/1912.00848)\].
-- **Facebook AI**, Research Intern, AI Infra &amp; Applied Machine Learning, Menlo Park, 05/2018-08/2018 
-    - Mentor: [Yangqing Jia](http://daggerfs.com/)
-    - Caffe2 and Personalization; Distributed Machine Learning
-    - Deployed my TernGrad (a NeurIPS oral paper) into Facebook AI Infra to scale up distributed training of ads ranking models
-
-- **Microsoft Research**, Research Intern, Web Search and Business AI, Redmond &amp; Bellevue, 05/2017-07/2017 
-    - Mentor: [Yuxiong He](https://www.microsoft.com/en-us/research/people/yuxhe/)
-    - Machine Reading Comprehension; Recurrent Neural Nets
-- **HP Labs**, Research Intern, Platform Architecture Group, Palo Alto, 05/31/2016-08/31/2016 
-    - Mentor:Cong Xu. Manager: [Paolo Faraboschi](https://sites.google.com/site/paolofaraboschi/)
-    - Worked on distributed deep learning.
-- **Agricultural Bank of China**, Software Engineer, Software Development Center, Beijing, 07/2013-07/2014
-- **Microsoft Research Asia**, Research Intern, Mobile Computer Vision, Beijing, 04/2013-06/2013
-- **Tencent Inc.**, Software Engineer Intern, Advertising Platform and Products Division, Beijing, 07/2012-09/2012
+- **Google Brain**, Research Scholar, Mountain View, 2019
+- **Facebook AI**, Research Intern, Menlo Park, 2018 
+- **Microsoft Research**, Research Intern, Bellevue, 2017 
+- **HP Labs**, Research Intern, Palo Alto, 2016 
+- **Agricultural Bank of China**, Software Engineer, Beijing, 2013-2014
+- **Microsoft Research Asia**, Research Intern, Beijing, 2013
+- **Tencent Inc.**, Software Engineer Intern, Beijing, 2012
 
 
 # **Talks and Presentations**
