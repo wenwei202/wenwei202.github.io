@@ -6,6 +6,7 @@ I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.w
 
 
 # **[Publications](#Publications)**
+- **Wei Wen**, Q. Zhu, W. Chu, W.-Y. Chen, and J. Yang. “CubicML: Automated ML for Distributed ML Systems Co-design with ML Prediction of Performance”, Workshop on ML for Systems, *Neural Information Processing Systems* (**NeurIPS**) 2024
 - Hua Zheng, Kuang-Hung Liu, Igor Fedorov, Xin Zhang, Wen-Yen Chen, **Wei Wen**, "SiGeo: Sub-One-Shot NAS via Geometry of Loss Landscape", *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**) 2024. Acceptance Rate: 20%. \[[paper](https://arxiv.org/pdf/2311.13169)\]
 - **Wei Wen***, Kuang-Hung Liu*, Igor Fedorov, Xin Zhang, Hang Yin, Weiwei Chu, Kaveh Hassani, Mengying Sun, Jiang Liu, Xu Wang, Lin Jiang, Yuxin Chen, Buyun Zhang, Xi Liu, Dehua Cheng, Zhengxing Chen, Guang Zhao, Fangqiu Han, Jiyan Yang, Yuchen Hao, Liang Xiong, Wen-Yen Chen, “Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale”, *The Web Conference* (**WWW**) 2024. Acceptance Rate: 21.3%. \[[paper](https://arxiv.org/abs/2311.08430)\] 
     - \* equal contributors
