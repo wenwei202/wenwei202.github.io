@@ -1,13 +1,15 @@
 ![Me hiking](wp-content/uploads/IMG_0890.jpg)
 
 I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.wiktionary.org/wiki/%E4%BC%9F)), an AI Research Scientist at Meta. 
-I lead a team to build large language models, vision language models, image & video understanding and grounding for AI applications in AR/VR/XR devices and Facebook/Instagram.
-I have been working on LLM (e.g. Llama), on-device GenAI, AI scalability and efficiency, automated generation of AI models, and others. I obtained my Ph.D. degree from Duke University. Before Meta, I work on Automated Machine Learning (AutoML), efficient deep neural networks, and distributed deep learning at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
+I lead a team to build efficient large language models, vision language models, image & video understanding and generation for AI applications in AR/VR/XR devices and Facebook/Instagram.
+I have been working on LLM (e.g. MobileLLM, Llama), on-device GenAI, AI scalability and efficiency, automated generation of AI models, and others. I obtained my Ph.D. degree from Duke University. Before Meta, I work on Automated Machine Learning (AutoML), efficient deep neural networks, and distributed deep learning at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
 
 [GitHub](https://github.com/wenwei202/), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
 
 
 # **[Publications](#Publications)**
+- P. Huber*, E. Chang*, **W. Wen***, I. Fedorov*, T. Elgamal, H. Huang, N. Suda, C. Sankar, V. Vogeti, Y. Wang, A. Gladkov, K. S. Tai, A. Elogeel, T. Hefny, V. Chandra, A. Aly, A. Kumar, R. Krishnamoorthi**, A. Sagar**, "MobileLLM-Pro Model Card",  \[[HuggingFace](https://huggingface.co/facebook/MobileLLM-Pro)\]
+- C. Zhao*, E. Chang*, Z. Liu*, C.-J. Chang, **Wei Wen**, C. Lai, R. Cao, Y. Tian, R. Krishnamoorthi, Y. Shi, V. Chandra, "MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes", preprint. \[[paper](https://arxiv.org/pdf/2509.24945)\]
 - **Wei Wen**, Q. Zhu, W. Chu, W.-Y. Chen, and J. Yang. “CubicML: Automated ML for Distributed ML Systems Co-design with ML Prediction of Performance”, Workshop on ML for Systems, *Neural Information Processing Systems* (**NeurIPS**) 2024
 - Hua Zheng, Kuang-Hung Liu, Igor Fedorov, Xin Zhang, Wen-Yen Chen, **Wei Wen**, "SiGeo: Sub-One-Shot NAS via Geometry of Loss Landscape", *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (**KDD**) 2024. Acceptance Rate: 20%. \[[paper](https://arxiv.org/pdf/2311.13169)\]
 - **Wei Wen***, Kuang-Hung Liu*, Igor Fedorov, Xin Zhang, Hang Yin, Weiwei Chu, Kaveh Hassani, Mengying Sun, Jiang Liu, Xu Wang, Lin Jiang, Yuxin Chen, Buyun Zhang, Xi Liu, Dehua Cheng, Zhengxing Chen, Guang Zhao, Fangqiu Han, Jiyan Yang, Yuchen Hao, Liang Xiong, Wen-Yen Chen, “Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale”, *The Web Conference* (**WWW**) 2024. Acceptance Rate: 21.3%. \[[paper](https://arxiv.org/abs/2311.08430)\] 
