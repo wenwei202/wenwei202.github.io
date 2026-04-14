@@ -1,8 +1,9 @@
 ![Me hiking](wp-content/uploads/IMG_0890.jpg)
 
 I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.wiktionary.org/wiki/%E4%BC%9F)), an AI Research Scientist at Meta. 
-I lead a team to build efficient large language models, vision language models, image & video understanding and generation for AI applications in AR/VR/XR devices and Facebook/Instagram.
-I have been working on LLM (e.g. MobileLLM, Llama), on-device GenAI, AI scalability and efficiency, automated generation of AI models, and others. I obtained my Ph.D. degree from Duke University. Before Meta, I work on Automated Machine Learning (AutoML), efficient deep neural networks, and distributed deep learning at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
+I lead a team on training LLM and vision-language models for assistant, contextual and proactive AI for future of computing such as AI Glasses.
+I have been working on Llama, MobileLLM, distillation (from Muse Spark), text diffusion post-training, universal vision encoder & modality balancing in VLMs. 
+I obtained my Ph.D. degree from Duke University. Before Meta, I work on Automated Machine Learning (AutoML) by reinforcement learning, efficient deep neural networks, and distributed deep learning at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
 
 [GitHub](https://github.com/wenwei202/), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
 
