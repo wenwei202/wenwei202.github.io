@@ -5,7 +5,7 @@ I lead a team on training LLM and vision-language models for assistant, contextu
 I have been working on Llama, MobileLLM, LLM efficiency, distillation (from Muse Spark), text diffusion and native multimodal LLMs. 
 I obtained my Ph.D. degree from Duke University. Before Meta, I work on Automated Machine Learning (AutoML) by reinforcement learning, efficient deep neural networks, and distributed deep learning at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
 
-[GitHub](https://github.com/wenwei202/), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/weiwenml), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
 
 
 # **[Publications](#Publications)**
