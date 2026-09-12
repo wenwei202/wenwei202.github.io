@@ -1,8 +1,8 @@
 ![Me hiking](wp-content/uploads/IMG_0890.jpg)
 
 I’m Wei Wen ([温](https://en.wiktionary.org/wiki/%E6%B8%A9)[伟](https://en.wiktionary.org/wiki/%E4%BC%9F)), an AI Research Scientist at Meta. 
-I lead a team on training LLM and vision-language models for assistant, contextual and proactive AI for future of computing such as AI Glasses.
-I have been working on Llama, MobileLLM, LLM efficiency, distillation (from Muse Spark), text diffusion and native multimodal LLMs. 
+I tech lead building LLAMA and MUSE for personal super-intelligence in AI glasses.
+I have been working on distillation, multi-token predictions, diffusion LLMs, multimodal LLMs and LLM efficiency. 
 I obtained my Ph.D. degree from Duke University. Before Meta, I work on Automated Machine Learning (AutoML) by reinforcement learning, efficient deep neural networks, and distributed deep learning at [Google Brain](https://ai.google/research/teams/brain) (now part of [Google DeepMind](https://www.deepmind.com/)), [Facebook AI](https://ai.facebook.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) and [HP Labs](https://www8.hp.com/us/en/hp-labs/index.html).
 
 [LinkedIn](https://www.linkedin.com/in/weiwenml), [Google Scholar](https://scholar.google.com/citations?user=JYD36ocAAAAJ&hl=en)
